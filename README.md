@@ -37,7 +37,7 @@ ControlPanel is a learning project that does not carry any value, but serves to 
 
 1. Clone the repository:
 ```sh
- git clone https://github.com/your_username/ControlPanel.git
+ git clone https://github.com/S0s0Combain/ControlPanel.git
  cd ControlPanel
 ```
 2. Install the dependencies:
